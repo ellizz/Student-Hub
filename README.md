@@ -23,5 +23,5 @@ The application includes the following tools:
 
 ## Built With
 
-• Visual Studio  (C#)
+• Visual Studio  (C#)  
 • Desktop application for PC  
